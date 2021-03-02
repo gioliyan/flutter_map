@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+Hasil Run di Handphone
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/70736299/109640335-ed2c4b00-7b82-11eb-8f8a-6296c071f877.gif)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
